@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">themoviedb</string>
+    <string name="try_again_bt_text">Пробовать снова</string>
+
+    <string name="error_unknown_host_exception">Отсутствует подключение к интернету</string>
+    <string name="network_not_found">Отсутствует подключение к интернету</string>
+    <string name="error_socket_timeout_exception">Превышено время соединения с сервером</string>
+    <string name="error_unknown">Неизвестная ошибка</string>
+    <string name="not_found">Не найдено</string>
+    <string name="list_is_empty">Список пустой</string>
+    <string name="input_error">Ошибка ввода</string>
+    <string name="message_dialog_contune">Продолжить</string>
+    <string name="continue_str">Продолжить</string>
+    <string name="error_while_selecting_pic">Ошибка при выборе изображения</string>
+
+    <string name="unknown_http_exception">HTTP %s</string>
+
+    <string name="list_is_empty_default">Список пустой</string>
+    <string name="popular_movies_title">Popular movies</string>
+</resources>

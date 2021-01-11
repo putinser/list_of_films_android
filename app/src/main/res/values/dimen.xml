@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="progress_bar_size">60dp</dimen>
+    <dimen name="screen_padding_vertical">10dp</dimen>
+    <dimen name="screen_padding_horizontal">16dp</dimen>
+
+    <dimen name="default_shadow_width">5dp</dimen>
+
+    <dimen name="default_space_between_layout">8dp</dimen>
+</resources>

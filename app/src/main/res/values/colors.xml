@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/main_yellow</color>
+    <color name="colorPrimaryDark">@color/main_yellow</color>
+    <color name="colorAccent">@color/black</color>
+    <color name="colorWindowBackground">@color/white</color>
+
+    <color name="main_yellow">#FFE454</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="refresh_color_text">#51D300</color>
+
+    <color name="line_divider_color">#80AFAFAF</color>
+
+</resources>

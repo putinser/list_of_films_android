@@ -1,0 +1,22 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="progressBar">
+        <item name="colorAccent">@color/main_yellow</item>
+    </style>
+
+    <style name="screen_padding_style">
+        <item name="android:paddingTop">@dimen/screen_padding_vertical</item>
+        <item name="android:paddingBottom">@dimen/screen_padding_vertical</item>
+        <item name="android:paddingStart">@dimen/screen_padding_horizontal</item>
+        <item name="android:paddingEnd">@dimen/screen_padding_horizontal</item>
+    </style>
+
+</resources>

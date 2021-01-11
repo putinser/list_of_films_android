@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NewPlaceholderLayout">
+        <attr name="root_id" format="reference" />
+        <attr name="placeholder_background" format="reference" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@style/screen_padding_style"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:showDividers="middle"
+    android:divider="@drawable/linear_layout_separator">
+
+    <TextView
+        android:id="@+id/message_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Loading error" />
+
+    <TextView
+        android:id="@+id/reload_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/try_again_bt_text"
+
+        android:textColor="@color/refresh_color_text" />
+
+</LinearLayout>
